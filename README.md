@@ -1,0 +1,2 @@
+# affective-misattribution-procedure
+A lab.js implementation of the Affect Misattribution Procedure. From (Payne 2014), "The affect misattribution procedure (AMP) measures automatically activated responses based on the misattributions people make about the sources of their affect or cognitions. The AMP is one of the most widely used implicit attitude measures, and evidence regarding its reliability and validity has grown rapidly."
